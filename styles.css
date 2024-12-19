@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(239, 156, 156);
+    font-family: Verdana, Helvetica, 'Courier New', Courier, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    width: 500px;
+
+    background-color: rgb(143, 143, 246);
+}
+
+main {
+
+    width: 500px;
+    background-color: rgb(221, 250, 193);
+}
+
+#BananaID {
+
+    color: rgb(165, 165, 15);
+}
+
+.MelonClass{
+
+    color: Green;
+}
